@@ -74,6 +74,6 @@ Install the required Python packages using:
 pip install pandas numpy matplotlib scikit-learn scipy statsmodels
 ```
 ## 📬 Author
-Muhammad Abdurrehman BS Data Science (NUCES)
-Created as part of a statistics and data analysis project using Python.
+- Muhammad Abdurrehman BS Data Science (NUCES)
+- Created as part of a statistics and data analysis project using Python.
 
