@@ -6,13 +6,13 @@ This repository contains solutions to a series of statistical analysis problems 
 
 ## 📘 Table of Contents
 
-- [Question 1: Confidence Interval for Mean](#question-1-confidence-interval-for-mean)
-- [Question 2: Confidence Interval for Proportion](#question-2-confidence-interval-for-proportion)
-- [Question 3: BMI Confidence Interval from Dataset](#question-3-bmi-confidence-interval-from-dataset)
-- [Question 4: Real Estate Linear Regression](#question-4-real-estate-linear-regression)
-- [Question 5: One-Sample Proportion Z-Test](#question-5-one-sample-proportion-z-test)
-- [Question 6: One-Sample Z-Test for Mean](#question-6-one-sample-z-test-for-mean)
-- [Question 7: Two-Sample T-Test for BMI](#question-7-two-sample-t-test-for-bmi)
+- [Question 1: Confidence Interval for Mean]
+- [Question 2: Confidence Interval for Proportion]
+- [Question 3: BMI Confidence Interval from Dataset]
+- [Question 4: Real Estate Linear Regression]
+- [Question 5: One-Sample Proportion Z-Test]
+- [Question 6: One-Sample Z-Test for Mean]
+- [Question 7: Two-Sample T-Test for BMI]
 
 ---
 
